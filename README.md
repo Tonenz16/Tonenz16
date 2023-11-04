@@ -1,4 +1,4 @@
-### Hi there, I am Tonenz Diocar  👋
+<h1>### Hi there, I am Tonenz Diocar  👋</h1>
 
 <!--
 **Tonenz16/Tonenz16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Test</h1>

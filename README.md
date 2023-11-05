@@ -1,6 +1,8 @@
 <h2>Hi there, I am Tonenz 👋</h2>
 <hr>
 <p>🛅 Developer of Python/PHP/Javascript for over 6 years</p>
+<br>
+<p>👉 Specialized in web app development and data-scraping</p>
 
 
 

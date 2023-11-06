@@ -19,7 +19,7 @@ Con una ricca esperienza di codifica e una grande capacità di problem solving, 
 - ⚡ Data Scraping/Web automation
 <br>
 - 💻 Android/Windows/Web Development
-<h3>My skills 🛠 </h3>
+<h3>Le mie skills 🛠 </h3>
 👉 Data Scraping (Python/bs4/Requests) (Dal 2019 ad oggi)<br>
 👉 Web Automation (Python/Selenium) (Dal 2019 ad oggi)<br>
 👉 API Development/Web App (Python/Flask/Json/AJAX/HTML/CSS/Javascript) (Dal 2019 ad oggi)

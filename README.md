@@ -1,4 +1,4 @@
-### Ciao, sono Tonenz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px" style="display: inline-block;">
+<h2>Ciao, sono Tonenz </h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px" style="display: inline-block;">
 <hr>
 <p>🛅 Sviluppatore Python/PHP/Javascript da oltre 6 anni</p>
 <br>

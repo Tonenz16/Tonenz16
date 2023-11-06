@@ -13,6 +13,8 @@ Con una ricca esperienza di codifica e una grande capacità di problem solving, 
 <img src="https://img.shields.io/badge/JAVASCRIPT-E8D44D?style=for-the-badge&logo=JAVASCRIPT&logoColor=black">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
 </div>
+<br>
+![Tonenz's github stats](https://github-readme-stats.vercel.app/api?username=Tonenz16&theme=gotham&show_icons=true&include_all_commits=true&)
 
 
 

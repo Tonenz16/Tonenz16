@@ -17,6 +17,7 @@ Con una ricca esperienza di codifica e una grande capacità di problem solving, 
 <img align="right" alt="GIF" src="dev.webp" width="500" height="350" />
 <h3>Parliamo delle mie cose personali:</h3>
 - ⚡ Data Scraping/Web automation
+<br>
 - 💻 Android/Windows/Web Development
 <h3>My skills 🛠 </h3>
 👉 Data Scraping (Python/bs4/Requests) (Dal 2019 ad oggi)<br>

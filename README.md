@@ -15,7 +15,7 @@ Con una ricca esperienza di codifica e una grande capacità di problem solving, 
 </div>
 <br>
 <img align="right" alt="GIF" src="python_dev.jpg" width="400" />
-### Parliamo delle mie cose personali:
+<h3>Parliamo delle mie cose personali:</h3>
 
 
 

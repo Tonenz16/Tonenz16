@@ -27,7 +27,7 @@ Con una ricca esperienza di codifica e una grande capacità di problem solving, 
 👉 Output in JSON/CSV/Excel<br>
 👉 Pulito ed efficiente<br>
 👉 Codice commentato per una comprensione migliore<br>
-👉 Parsaing di dati e API<br>
+👉 Parsing di dati e API<br>
 <br>
 
 

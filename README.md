@@ -1,6 +1,7 @@
-<h1>Ciao, sono Tonenz. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></img></h1>
+Ciao, sono Tonenz. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 <br>
 <p>🛅 Sviluppatore Python/PHP/Javascript da oltre 6 anni</p>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
 <br>
 <p>👉 Specializzato nello sviluppo di Web-App e nel Data-Scraping/Automation</p>
 <br>

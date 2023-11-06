@@ -14,7 +14,7 @@ Con una ricca esperienza di codifica e una grande capacità di problem solving, 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
 </div>
 <br>
-<img align="right" alt="GIF" src="python_dev.jpg" width="500" height="320" />
+<img align="right" alt="GIF" src="python_dev.jpg" width="500" />
 ### Parliamo delle mie cose personali:
 
 

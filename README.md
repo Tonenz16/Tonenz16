@@ -14,7 +14,8 @@ Con una ricca esperienza di codifica e una grande capacità di problem solving, 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
 </div>
 <br>
-![Tonenz's github stats](https://github-readme-stats.vercel.app/api?username=Tonenz16&theme=gotham&show_icons=true&include_all_commits=true&)
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
 
 
 

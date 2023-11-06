@@ -8,11 +8,12 @@
 Con una ricca esperienza di codifica e una grande capacità di problem solving, posso aiutare i clienti a portare le loro idee al prodotto. Sono un programmatore dedicato e consegno sempre i miei progetti in tempo e con tutti i requisiti di qualità</p>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black">
-<img src="https://img.shields.io/badge/PHP-0274B5?style=for-the-badge&logo=PHP&logoColor=white">
-<img src="https://img.shields.io/badge/JAVASCRIPT-E8D44D?style=for-the-badge&logo=JAVASCRIPT&logoColor=black">
-<img src="https://img.shields.io/badge/JSON-FFF?style=for-the-badge&logo=json&logoColor=black">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-0274B5?style=for-the-badge&logo=PHP&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-E8D44D?style=for-the-badge&logo=JAVASCRIPT&logoColor=black" />
+<img src="https://img.shields.io/badge/JSON-FFF?style=for-the-badge&logo=json&logoColor=black" />
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/BATCH%20FILE-D815F2?style=for-the-badge&logo=WINDOWS&logoColor=white" />
 </div>
 <br>
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
